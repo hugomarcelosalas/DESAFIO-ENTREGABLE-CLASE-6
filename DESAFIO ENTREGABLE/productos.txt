@@ -1,0 +1,20 @@
+[
+    {
+        "title": "remera",
+        "price": 1000,
+        "thumbnail": "https://www.metalshop.es/images/produkty/thumb/ssa_022.JPG.webp",
+        "id": 1
+    },
+    {
+        "title": "pantalon",
+        "price": 2000,
+        "thumbnail": "https://img01.ztat.net/article/spp-media-p1/62194f9c83814c2397a48a8d5e4f5200/0247784367c643fdbe1a99070e9e48ac.jpg?imwidth=1800&imformat=jpeg",
+        "id": 2
+    },
+    {
+        "title": "zapatillas",
+        "price": 5000,
+        "thumbnail": "https://cdn.shopify.com/s/files/1/0059/7436/0127/products/Ncuadrarte-Estudio---Yuccs-Calzado---Zapatilla-1---2-copia_c07ea98b-8f83-48fb-9b51-e62c16029ee4_1280x1120_crop_center.png?v=1651273448",
+        "id": 3
+    }
+]
